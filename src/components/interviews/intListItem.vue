@@ -25,7 +25,7 @@
                         <a href="#" class="text-muted">John Doe</a></p>
                     </div>
                     <a href="#" class="col-3 mt-2">
-                        <img class="img img-avatar" src="http://tinygraphs.com/squares/helloworld">
+                        <img class="img img-avatar" src="/static/imgs/avatar.png">
                     </a>
                 </div>
             </div>

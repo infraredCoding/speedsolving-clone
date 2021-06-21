@@ -4,7 +4,7 @@
             <div class="row justify-content-between">
                 <div class="col-md-4 row">
                     <a href="#" class="col-4 mt-2">
-                        <img class="img img-avatar" src="http://tinygraphs.com/squares/helloworld">
+                        <img class="img img-avatar" src="/static/imgs/avatar.png">
                     </a>
                     <div class="col-8 mt-2">
                         <router-link :to="{ name: 'ForumThread' }">
@@ -25,7 +25,7 @@
                         <p><b>Latest Comment:</b> ALright man here is hel...</p>
                     </div>
                     <a href="#" class="col-3 mt-2">
-                        <img class="img img-avatar" src="http://tinygraphs.com/squares/helloworld">
+                        <img class="img img-avatar" src="/static/imgs/avatar.png">
                     </a>
                 </div>
             </div>

@@ -7,7 +7,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-4">
                     <a href="#" class="col-3 mt-2">
-                        <img height="80" class="img img-avatar" src="http://tinygraphs.com/squares/helloworld">
+                        <img height="80" class="img img-avatar" src="/static/imgs/avatar.png">
                     </a>
                     <div class="col-8 mt-2">
                         <a class="text-primary" href="#"><b>John Doe</b></a>

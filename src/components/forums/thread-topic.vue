@@ -17,7 +17,7 @@
                 </div>
                 <div class="col-md-4 row" style="border: 1px solid #ececec;">
                     <a href="#" class="col-lg-3 col-sm-2 mt-2">
-                        <img class="img img-avatar" src="http://tinygraphs.com/squares/helloworld">
+                        <img class="img img-avatar" src="/static/imgs/avatar.png">
                     </a>
                     <div class="col-lg-9 mt-2">
                         <a href="#">Yo Bruv I need help</a>
