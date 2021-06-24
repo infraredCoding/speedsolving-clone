@@ -1,6 +1,6 @@
 <template>
     <div class="text-white card card-login card-plain">
-        <form class="form" method="" action="">
+        <form class="form" method="GET">
             <div class="card-body">
                 <div class="input-group no-border text-white input-lg">
                     <div class="input-group-prepend">
