@@ -1,6 +1,6 @@
 <template>
     <div class="text-white card card-login card-plain">
-        <form class="form" method="GET">
+        <form class="form" method="POST">
             <div class="card-body">
                 <label><b>Username</b></label>
                 <div class="input-group no-border text-white input-lg">
